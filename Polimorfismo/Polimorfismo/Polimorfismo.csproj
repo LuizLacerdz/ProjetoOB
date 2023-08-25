@@ -47,6 +47,10 @@
     <Compile Include="Ativadade 2508\Coordenador.cs" />
     <Compile Include="Ativadade 2508\Diretor.cs" />
     <Compile Include="Ativadade 2508\Professor.cs" />
+    <Compile Include="Exercicio 3\Moto.cs" />
+    <Compile Include="Exercicio 3\Taxi.cs" />
+    <Compile Include="Exercicio 3\Uber.cs" />
+    <Compile Include="Exercicio 3\Veiculo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
